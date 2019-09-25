@@ -16,8 +16,18 @@ namespace CoinCombo.Models
       int inQuarters = Convert.ToInt32(amount/0.25);
       float decimalQuarters = amount/0.25f;
       Console.WriteLine(decimalQuarters);
-      //DimeCalculate(inQuarters - decimalQuarters);
+      float dimeNickPenn = inQuarters - decimalQuarters;
+      DimeCalculate(dimeNickPenn);
       return inQuarters;
+    }
+    public int DimeCalculate(float round2)
+    {
+      int inDimes = Convert.ToInt32(round2/0.10);
+      float decimalDimes = round2/0.10f;
+      Console.WriteLine(decimalDimes);
+      float nickPenn = inDimes - decimalDimes;
+      // NickelCalculate(nickPenn);
+      return inDimes;
     }
   }
 }

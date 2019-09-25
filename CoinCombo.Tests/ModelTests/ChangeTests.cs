@@ -37,16 +37,26 @@ namespace CoinCombo.Tests
       Assert.AreEqual(updatedAmount, result);
     }
     [TestMethod]
-    
-      public void QuarterCalculate_CalculatesQuarters_Int()
-      {
-        //Arrange
-        float amount = .55f;
-        Change pocketChange = new Change(amount);
-        //Act
-        float result = pocketChange.QuarterCalculate(amount);
-        //Assert
-        Assert.AreEqual(2, result);
-      }
+    public void QuarterCalculate_CalculatesQuarters_Int()
+    {
+      //Arrange
+      float amount = .55f;
+      Change pocketChange = new Change(amount);
+      //Act
+      float result = pocketChange.QuarterCalculate(amount);
+      //Assert
+      Assert.AreEqual(2, result);
+    }
+    [TestMethod]
+    public void DimeCalculate_CalculatesDimes_Int()
+    {
+      //Arrange
+      float round2 = .24f;
+      Change pocketChange = new Change(round2);
+      //Act
+      float result = pocketChange.DimeCalculate(round2);
+      //Assert
+      Assert.AreEqual(2, result);
+    }
   }
 }
