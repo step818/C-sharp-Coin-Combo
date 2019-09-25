@@ -1,0 +1,17 @@
+C:\Users\steph\desktop\CoinCombo.Solution\CoinCombo.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\steph\desktop\CoinCombo.Solution\CoinCombo.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\steph\desktop\CoinCombo.Solution\CoinCombo.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\steph\desktop\CoinCombo.Solution\CoinCombo.Tests\bin\Debug\netcoreapp2.2\CoinCombo.Tests.deps.json
+C:\Users\steph\desktop\CoinCombo.Solution\CoinCombo.Tests\bin\Debug\netcoreapp2.2\CoinCombo.Tests.runtimeconfig.json
+C:\Users\steph\desktop\CoinCombo.Solution\CoinCombo.Tests\bin\Debug\netcoreapp2.2\CoinCombo.Tests.runtimeconfig.dev.json
+C:\Users\steph\desktop\CoinCombo.Solution\CoinCombo.Tests\bin\Debug\netcoreapp2.2\CoinCombo.Tests.dll
+C:\Users\steph\desktop\CoinCombo.Solution\CoinCombo.Tests\bin\Debug\netcoreapp2.2\CoinCombo.Tests.pdb
+C:\Users\steph\desktop\CoinCombo.Solution\CoinCombo.Tests\bin\Debug\netcoreapp2.2\CoinCombo.dll
+C:\Users\steph\desktop\CoinCombo.Solution\CoinCombo.Tests\bin\Debug\netcoreapp2.2\CoinCombo.pdb
+C:\Users\steph\desktop\CoinCombo.Solution\CoinCombo.Tests\obj\Debug\netcoreapp2.2\CoinCombo.Tests.csprojAssemblyReference.cache
+C:\Users\steph\desktop\CoinCombo.Solution\CoinCombo.Tests\obj\Debug\netcoreapp2.2\CoinCombo.Tests.csproj.CoreCompileInputs.cache
+C:\Users\steph\desktop\CoinCombo.Solution\CoinCombo.Tests\obj\Debug\netcoreapp2.2\CoinCombo.Tests.AssemblyInfoInputs.cache
+C:\Users\steph\desktop\CoinCombo.Solution\CoinCombo.Tests\obj\Debug\netcoreapp2.2\CoinCombo.Tests.AssemblyInfo.cs
+C:\Users\steph\desktop\CoinCombo.Solution\CoinCombo.Tests\obj\Debug\netcoreapp2.2\CoinCombo.Tests.csproj.CopyComplete
+C:\Users\steph\desktop\CoinCombo.Solution\CoinCombo.Tests\obj\Debug\netcoreapp2.2\CoinCombo.Tests.dll
+C:\Users\steph\desktop\CoinCombo.Solution\CoinCombo.Tests\obj\Debug\netcoreapp2.2\CoinCombo.Tests.pdb
