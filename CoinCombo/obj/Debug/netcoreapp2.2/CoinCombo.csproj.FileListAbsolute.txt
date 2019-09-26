@@ -7,3 +7,5 @@ C:\Users\steph\desktop\CoinCombo.Solution\CoinCombo\obj\Debug\netcoreapp2.2\Coin
 C:\Users\steph\desktop\CoinCombo.Solution\CoinCombo\obj\Debug\netcoreapp2.2\CoinCombo.AssemblyInfo.cs
 C:\Users\steph\desktop\CoinCombo.Solution\CoinCombo\obj\Debug\netcoreapp2.2\CoinCombo.dll
 C:\Users\steph\desktop\CoinCombo.Solution\CoinCombo\obj\Debug\netcoreapp2.2\CoinCombo.pdb
+C:\Users\steph\desktop\CoinCombo.Solution\CoinCombo\bin\Debug\netcoreapp2.2\CoinCombo.runtimeconfig.json
+C:\Users\steph\desktop\CoinCombo.Solution\CoinCombo\bin\Debug\netcoreapp2.2\CoinCombo.runtimeconfig.dev.json
