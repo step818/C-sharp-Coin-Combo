@@ -58,5 +58,16 @@ namespace CoinCombo.Tests
       //Assert
       Assert.AreEqual(2, result);
     }
+    [TestMethod]
+    public void NickelCalculate_CalculateNickels_Int()
+    {
+      //Arrange
+      float round3 = .09f;
+      Change pocketChange = new Change(round3);
+      //Act
+      float result = pocketChange.NickelCalculate(round3);
+      //Assert
+      Assert.AreEqual(1, result);
+    }
   }
 }
